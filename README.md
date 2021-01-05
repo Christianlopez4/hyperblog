@@ -12,4 +12,4 @@ Un blog increíble para el curso de Git y GitHub
 - profesor: freddier
 - 5/enero/2021
 
-Creado por christian lopez
+Creado por christian lopez, estudiante de ingeniería de sistemas
